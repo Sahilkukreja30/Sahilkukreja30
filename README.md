@@ -18,6 +18,9 @@
   - ⚡ Fun fact: Code + Coffee ☕ = Happiness</p>
   <img  src="https://shorturl.at/odfzC" width="500"/>
 
+
+---
+
 <!-- Tech Stack -->
 ### 🛠 Tech Stack
 <p>
