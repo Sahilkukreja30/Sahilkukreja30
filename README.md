@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media.tenor.com/GepN9gZcKmkAAAAC/boom-bomb.gif" width="500" alt="Boom GIF" />
+</p
+
+
 <!-- Profile Header -->
 <h1 align="center">Hey there 👋, I'm Sahil Kukreja</h1>
 <h3 align="center">
