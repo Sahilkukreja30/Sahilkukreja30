@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <img src="https://shorturl.at/k0a8c" width="100%"/>
-  <h1 align="center">Hey there 👋, I'm Sahil Kukreja</h1>
+  <h1 align="center">Hey there , I'm Sahil Kukreja <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
   <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Turning+Ideas+into+Reality" style="text-align:center;" alt="Typing SVG" />
   </h3>
@@ -11,13 +11,13 @@
 
 <!-- About Me -->
 <div style="text-align: center;">
-  <h2>### 🚀 About Me</h2>
-  <p>- 💻 Building **full-stack apps** & **AI-powered agents**</p>
-  <p>- 🎯 Current focus: **AI + Web Apps** (Gemini API, LangChain, OpenAI)</p>
-  <p>- 🏆 **Tech Team Member @ TEDxDAVV**</p>
-  <p>- 🌱 Always learning **new stacks, APIs, and problem-solving techniques**</p>
-  <p>- ⚡ Fun fact: Code + Coffee ☕ = Happiness</p>
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+  <h2 align="center">### 🚀 About Me</h2>
+  <p align="center">- 💻 Building **full-stack apps** & **AI-powered agents**</p>
+  <p align="center">- 🎯 Current focus: **AI + Web Apps** (Gemini API, LangChain, OpenAI)</p>
+  <p align="center">- 🏆 **Tech Team Member @ TEDxDAVV**</p>
+  <p align="center">- 🌱 Always learning **new stacks, APIs, and problem-solving techniques**</p>
+  <p align="center">- ⚡ Fun fact: Code + Coffee ☕ = Happiness</p>
+  <img align="center" src="https://shorturl.at/odfzC" width="500"/>
 </div>
 ---
 
