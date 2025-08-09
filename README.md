@@ -39,12 +39,12 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
+<div style="text-align: center;">
+  <h3>My GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=Sahilkukreja30&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilkukreja30&theme=radical" alt="GitHub Streak" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilkukreja30&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-</p>
+</div>
 
 ---
 
