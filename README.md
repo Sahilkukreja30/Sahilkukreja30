@@ -1,8 +1,8 @@
 <div style="text-align: center;">
-  <img src="[https://media.giphy.com/media/Yl5aO3gdVfsQ0/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczh0d2d0anYydzM5YzZ4dmpkNDM0cTR6cXN2djYweWEyMnc2dXZ0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5bGYUuT3VEVLa/giphy.gif)" width="100%"/>
+  <img src="https://shorturl.at/k0a8c" width="100%"/>
   <h1 align="center">Hey there 👋, I'm Sahil Kukreja</h1>
   <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Turning+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Turning+Ideas+into+Reality" style="text-align:center;" alt="Typing SVG" />
   </h3>
 </div>
 
@@ -11,12 +11,12 @@
 
 <!-- About Me -->
 <div style="text-align: center;">
-  ### 🚀 About Me
-  - 💻 Building **full-stack apps** & **AI-powered agents**
-  - 🎯 Current focus: **AI + Web Apps** (Gemini API, LangChain, OpenAI)
-  - 🏆 **Tech Team Member @ TEDxDAVV**
-  - 🌱 Always learning **new stacks, APIs, and problem-solving techniques**
-  - ⚡ Fun fact: Code + Coffee ☕ = Happiness
+  <h2>### 🚀 About Me</h2>
+  <p>- 💻 Building **full-stack apps** & **AI-powered agents**</p>
+  <p>- 🎯 Current focus: **AI + Web Apps** (Gemini API, LangChain, OpenAI)</p>
+  <p>- 🏆 **Tech Team Member @ TEDxDAVV**</p>
+  <p>- 🌱 Always learning **new stacks, APIs, and problem-solving techniques**</p>
+  <p>- ⚡ Fun fact: Code + Coffee ☕ = Happiness</p>
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
 </div>
 ---
@@ -29,14 +29,6 @@
 
 ---
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahilkukreja30&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilkukreja30&theme=tokyonight" height="160px"/>
-</p>
-
----
 
 <!-- Featured Projects -->
 ### 💼 Featured Projects
@@ -44,6 +36,24 @@
 - 🎤 **TEDxDAVV Website** – Official club website for TEDxDAVV, showcasing event details, speaker profiles, and updates for one of our college’s largest TEDx events.  
 - 🔒 **Anonymous Wave** – A full-stack Next.js platform where users get a unique link to receive completely anonymous messages, focusing on privacy and a sleek UI/UX.  
 - 🎵 **Music School UI** – Frontend website for a music school to highlight courses, events, and programs, built with a clean, modern design.  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahilkukreja30&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilkukreja30&theme=radical" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilkukreja30&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+</p>
+
+---
+
+<div style="text-align: center;">
+  <h3>Profile Stats</h3>
+  <img src="https://komarev.com/ghpvc/?username=Sahilkukreja30&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Sahilkukreja30?style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Sahilkukreja30?style=social" alt="GitHub Stars"/>
+</div>
 
 ---
 
