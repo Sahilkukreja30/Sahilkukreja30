@@ -11,13 +11,13 @@
 
 <!-- About Me -->
 <div style="text-align: center;">
-  <h2 align="center">### 🚀 About Me</h2>
-  <p align="center">- 💻 Building **full-stack apps** & **AI-powered agents**</p>
-  <p align="center">- 🎯 Current focus: **AI + Web Apps** (Gemini API, LangChain, OpenAI)</p>
-  <p align="center">- 🏆 **Tech Team Member @ TEDxDAVV**</p>
-  <p align="center">- 🌱 Always learning **new stacks, APIs, and problem-solving techniques**</p>
-  <p align="center">- ⚡ Fun fact: Code + Coffee ☕ = Happiness</p>
-  <img align="center" src="https://shorturl.at/odfzC" width="500"/>
+  <h2>### 🚀 About Me</h2>
+  <p>- 💻 Building **full-stack apps** & **AI-powered agents**</p>
+  <p>- 🎯 Current focus: **AI + Web Apps** (Gemini API, LangChain, OpenAI)</p>
+  <p>- 🏆 **Tech Team Member @ TEDxDAVV**</p>
+  <p>- 🌱 Always learning **new stacks, APIs, and problem-solving techniques**</p>
+  <p>- ⚡ Fun fact: Code + Coffee ☕ = Happiness</p>
+  <img  src="https://shorturl.at/odfzC" width="500"/>
 </div>
 ---
 
