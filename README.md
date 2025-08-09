@@ -1,24 +1,24 @@
-<p align="center">
-  <img src="https://tenor.com/en-IN/view/boom-bomb-explosion-iron-man-tony-stark-gif-15429820" width="500" alt="Boom GIF" />
-</p
+<div style="text-align: center;">
+  <img src="[https://media.giphy.com/media/Yl5aO3gdVfsQ0/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczh0d2d0anYydzM5YzZ4dmpkNDM0cTR6cXN2djYweWEyMnc2dXZ0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5bGYUuT3VEVLa/giphy.gif)" width="100%"/>
+  <h1 align="center">Hey there 👋, I'm Sahil Kukreja</h1>
+  <h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Turning+Ideas+into+Reality" alt="Typing SVG" />
+  </h3>
+</div>
 
-
-<!-- Profile Header -->
-<h1 align="center">Hey there 👋, I'm Sahil Kukreja</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Hackathon+Builder;Turning+Ideas+into+Reality" alt="Typing SVG" />
-</h3>
 
 ---
 
 <!-- About Me -->
-### 🚀 About Me
-- 💻 Building **full-stack apps** & **AI-powered agents**
-- 🎯 Current focus: **AI + Web Apps** (Gemini API, LangChain, OpenAI)
-- 🏆 Hackathon finalist & **Tech Team OC @ COMET**
-- 🌱 Always learning **new stacks, APIs, and problem-solving techniques**
-- ⚡ Fun fact: Code + Coffee ☕ = Happiness
-
+<div style="text-align: center;">
+  ### 🚀 About Me
+  - 💻 Building **full-stack apps** & **AI-powered agents**
+  - 🎯 Current focus: **AI + Web Apps** (Gemini API, LangChain, OpenAI)
+  - 🏆 **Tech Team Member @ TEDxDAVV**
+  - 🌱 Always learning **new stacks, APIs, and problem-solving techniques**
+  - ⚡ Fun fact: Code + Coffee ☕ = Happiness
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+</div>
 ---
 
 <!-- Tech Stack -->
@@ -32,8 +32,8 @@
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahilkukreja30&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilkukreja30&theme=tokyonight" height="160px"/>
 </p>
 
 ---
