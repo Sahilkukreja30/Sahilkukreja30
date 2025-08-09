@@ -10,15 +10,13 @@
 ---
 
 <!-- About Me -->
-<div style="text-align: center;">
-  <h2>🚀 About Me</h2>
-  <p>- 💻 Building <span style="font-weight=bold";>full-stack apps</span> & **AI-powered agents**</p>
-  <p>- 🎯 Current focus: <span style="font-weight=bold";>AI + Web Apps</span> (Gemini API, LangChain, OpenAI)</p>
-  <p>- 🏆 <span style="font-weight=bold";>Tech Team Member @ TEDxDAVV</span></p>
-  <p>- 🌱 Always learning <span style="font-weight=bold";>new stacks, APIs, and problem-solving techniques</span></p>
-  <p>- ⚡ Fun fact: Code + Coffee ☕ = Happiness</p>
+  ### 🚀 About Me</h2>
+  - 💻 Building **full-stack apps** & **AI-powered agents**
+  - 🎯 Current focus: **AI + Web Apps** (Gemini API, LangChain, OpenAI)
+  - 🏆 **Tech Team Member @ TEDxDAVV**
+  - 🌱 Always learning **new stacks, APIs, and problem-solving techniques**
+  - ⚡ Fun fact: Code + Coffee ☕ = Happiness</p>
   <img  src="https://shorturl.at/odfzC" width="500"/>
-</div>
 ---
 
 <!-- Tech Stack -->
