@@ -35,9 +35,10 @@
 
 <!-- Featured Projects -->
 ### 💼 Featured Projects
-- 🎵 **Spotify-Style Music App** – Playlists, friend sharing, and uploads  
-- 🌾 **KrishiMitra AI** – Crop planner, water management, pest alerts  
-- 🔒 **Auth System** – Secure signup/login with password hashing  
+- 🌾 **KrishiMitra AI** – AI-powered farming assistant where users can upload crop images to detect diseases, check live market prices, and get weather insights — built with Agentic AI to empower small farmers.  
+- 🎤 **TEDxDAVV Website** – Official club website for TEDxDAVV, showcasing event details, speaker profiles, and updates for one of our college’s largest TEDx events.  
+- 🔒 **Anonymous Wave** – A full-stack Next.js platform where users get a unique link to receive completely anonymous messages, focusing on privacy and a sleek UI/UX.  
+- 🎵 **Music School UI** – Frontend website for a music school to highlight courses, events, and programs, built with a clean, modern design.  
 
 ---
 
