@@ -11,7 +11,7 @@
 
 <!-- About Me -->
 <div style="text-align: center;">
-  ## 🚀 About Me
+  <h2>🚀 About Me</h2>
   <p>- 💻 Building **full-stack apps** & **AI-powered agents**</p>
   <p>- 🎯 Current focus: **AI + Web Apps** (Gemini API, LangChain, OpenAI)</p>
   <p>- 🏆 **Tech Team Member @ TEDxDAVV**</p>
