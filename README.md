@@ -12,10 +12,10 @@
 <!-- About Me -->
 <div style="text-align: center;">
   <h2>🚀 About Me</h2>
-  <p>- 💻 Building **full-stack apps** & **AI-powered agents**</p>
-  <p>- 🎯 Current focus: **AI + Web Apps** (Gemini API, LangChain, OpenAI)</p>
-  <p>- 🏆 **Tech Team Member @ TEDxDAVV**</p>
-  <p>- 🌱 Always learning **new stacks, APIs, and problem-solving techniques**</p>
+  <p>- 💻 Building <span style="font-weight=bold";>full-stack apps</span> & **AI-powered agents**</p>
+  <p>- 🎯 Current focus: <span style="font-weight=bold";>AI + Web Apps</span> (Gemini API, LangChain, OpenAI)</p>
+  <p>- 🏆 <span style="font-weight=bold";>Tech Team Member @ TEDxDAVV</span></p>
+  <p>- 🌱 Always learning <span style="font-weight=bold";>new stacks, APIs, and problem-solving techniques</span></p>
   <p>- ⚡ Fun fact: Code + Coffee ☕ = Happiness</p>
   <img  src="https://shorturl.at/odfzC" width="500"/>
 </div>
@@ -23,7 +23,7 @@
 
 <!-- Tech Stack -->
 ### 🛠 Tech Stack
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,python,git,github,figma,docker" />
 </p>
 
@@ -58,7 +58,7 @@
 ---
 
 <!-- Badges -->
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/Code%20With-Passion-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Agent-Builder-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hackathon-Participant-success?style=for-the-badge" />
